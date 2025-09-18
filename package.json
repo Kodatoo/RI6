@@ -1,0 +1,23 @@
+{
+  "name": "ri6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc && node out/main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustasvos/RI6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gustasvos/RI6/issues"
+  },
+  "homepage": "https://github.com/gustasvos/RI6#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^24.5.2"
+  }
+}
