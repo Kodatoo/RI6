@@ -1,22 +1,21 @@
 {
   "name": "ri6",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "tsc && node out/main"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gustasvos/RI6.git"
+    "url": "git+https://github.com/Kodatoo/RI6.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gustasvos/RI6/issues"
+    "url": "https://github.com/Kodatoo/RI6/issues"
   },
-  "homepage": "https://github.com/gustasvos/RI6#readme",
-  "description": "",
+  "homepage": "https://github.com/Kodatoo/RI6#readme",
   "devDependencies": {
     "@types/node": "^24.5.2"
   }

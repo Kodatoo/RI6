@@ -12,7 +12,7 @@ export default class Mensagens {
     }
 
     public boasVindas = () => {
-        console.log('\nBem-vindo a calculadora polimórfica\n')
+        console.log('\nBem-vindo a calculadora \n')
     }
 
 }
